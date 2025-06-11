@@ -1,4 +1,4 @@
-# Assessing Professor Effectiveness using RateMyProfessor Data 📊
+# Assessing Professor Effectiveness using RateMyProfessor Data
 
 This repository contains the complete capstone project I completed as part of one of many NYU undergraduate courses (DS-UA) offered by the NYU Center for Data Science. The project leverages real-world scraped data from RateMyProfessor.com to analyze, model, and draw statistically robust conclusions about professor evaluations across the United States and even internationally. 
 
