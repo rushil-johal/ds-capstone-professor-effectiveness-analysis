@@ -28,7 +28,6 @@ The project answers **10 core research questions** along with an **extra credit 
 | `rmpCapstoneNum.csv` | Raw quantitative dataset scraped from RateMyProfessor, including average ratings, difficulty, gender, and more (n = ~89,000 professors). |
 | `rmpCapstoneQual.csv` | Raw qualitative dataset containing field of study, university, and state information for the same professors. |
 | `cleaned_rmp_data.csv` | Final cleaned and preprocessed dataset used in all analyses. Missing values dropped, thresholds applied (e.g. minimum 5 ratings), and boolean fields encoded. |
-| `*.png` | Auto-generated visualizations used in the report (e.g., boxplots, scatterplots, ROC curves, regression fits). |
 
 ---
 
